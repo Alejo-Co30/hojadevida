@@ -1,0 +1,46 @@
+
+
+main{
+margin:block 100px;
+border: 0px;
+}
+
+
+footer{
+margin:block 100px;
+background-color: #005677;
+
+}
+
+.log{
+display: flex;
+margin-left: auto;
+margin-right: auto;
+width: 40px;
+margin-top: auto;
+}
+
+h1{
+
+border:0px;
+text-align: center;
+background-color: #c4c4c4;
+}
+
+span{
+    display:flex;
+}
+
+.m1 {
+    font-weight: bold;
+    font-style: italic;
+}
+
+p{
+    text-align: center;
+    color: #c4c4c4;
+    width: 1500px;
+    height: 50px;
+    font-weight: bold;
+}
+
